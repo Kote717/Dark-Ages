@@ -7,7 +7,6 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 15,
-		
 		"promotions": ["Blitz"],
 		"attackSound": ""
 	}
@@ -21,8 +20,6 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 55,
-
-		"promotions": ["Blitz"],
 		"attackSound": ""
 	}
 ]
