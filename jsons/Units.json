@@ -5,21 +5,9 @@
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Scout",
 		"movement": 3,
-		"strength": 12,
+		"strength": 18,
 		"cost": 15,
-		"promotions": ["Blitz"],
-		"attackSound": ""
+		"promotions": ["Logistics","Accuracy I"],
+		"attackSound": "phasers"
 	}
 ],
-[
-	{
-		"name": "Colonial",
-		"unitType": "Civillian",
-		"uniqueTo": "LolCat Kingdom",
-		"replaces": "Settler",
-		"movement": 3,
-		"strength": 12,
-		"cost": 55,
-		"attackSound": ""
-	}
-]
