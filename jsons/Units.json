@@ -7,11 +7,7 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 15,
-				"uniques": [
-			
-			"[-75]% Strength <vs cities>",
-			"[+1] Sight",
-		],
+		
 		"promotions": ["Blitz"],
 		"attackSound": ""
 	}
