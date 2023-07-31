@@ -9,9 +9,7 @@
 		"cost": 15,
 		"promotions": ["Scouting I"],
 		"attackSound": "Stab"
-	}
-]
-[
+	},
 	{
 		"name": "Colonial",
 		"unitType": "Civillian",
