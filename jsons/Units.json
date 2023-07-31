@@ -10,4 +10,14 @@
 		"promotions": ["Scouting I"],
 		"attackSound": "Stab"
 	}
+],
+[
+	{
+		"name": "Colonial",
+		"unitType": "Civillian",
+		"uniqueTo": "LolCat Kingdom",
+		"replaces": "Settler",
+		"movement": 3,
+		"cost": 35,
+	}
 ]
