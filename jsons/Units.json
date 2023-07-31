@@ -16,7 +16,7 @@
 		],
 		"promotions": []
 		
-	}
+},
 
 {
 		"name": "Colonial",
@@ -29,16 +29,15 @@
 		
 		"hurryCostModifier": 55,
 		"uniques": [
-			
 			"Capturable",
 			"May withdraw before melee ([45]%)",
 			"[+1] Sight",
 		],
-		"promotions": [,
+		"promotions": []
 		
-	}
+},
 
-	{
+{
 		"name": "Overwatch",
 		"uniqueTo": "LolCat Kingdom",
 		"unitType": "Civilian",
@@ -50,5 +49,5 @@
 			"Never appears as a Barbarian unit"
 			
 			],
-		"promotions": [],
-	}
+		"promotions": []
+}
