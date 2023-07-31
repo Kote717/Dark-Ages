@@ -7,6 +7,25 @@
 		"movement": 3,
 		"strength": 12,
 		"cost": 15,
+				"uniques": [
+			"Low Tech",
+			"[-75]% Strength <vs cities>",
+			"[+1] Sight",
+		],
+		"promotions": ["Blitz"],
+		"attackSound": ""
+	}
+],
+[
+	{
+		"name": "Colonial",
+		"unitType": "Civillian",
+		"uniqueTo": "LolCat Kingdom",
+		"replaces": "Settler",
+		"movement": 3,
+		"strength": 12,
+		"cost": 55,
+
 		"promotions": ["Blitz"],
 		"attackSound": ""
 	}
