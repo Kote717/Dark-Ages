@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 18,
 		"cost": 15,
-		"promotions": ["Logistics","Accuracy I"],
+		"promotions": ["Scouting I"],
 		"attackSound": "phasers"
 	}
 ],
