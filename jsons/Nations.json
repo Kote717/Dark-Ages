@@ -1,0 +1,45 @@
+[
+	{
+		"name": "LolCat Kingdom",
+		"leaderName": "Caton IV",
+		"adjective": ["Cattians"],
+		"startBias": [],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Liberty",
+
+		"startIntroPart1": "Yep",
+		"startIntroPart2": "Go for it, Cat-ain",
+		"declaringWar": "As Cat leadew! The Caton IV himself! As mighty and gwowy cat! I chaleng u to de battle. In this battle we deside hoo gona be the best if I win you wil join my empire empire of mighty Lolcat. If you wonder who is Lolcat it's the powest cat in the world he was able to fight what we now call mutants",
+		"attacked": "Why would you do dis to me?! I'm veby sadd! U must pay!",
+		"defeated": "Nooooo! How did you deafeat me I waned to have a friendly fight but you annexed my tewwitovy but I'll silnetly waiwt if someone wil liberate me! From u!",
+		"introduction": "Hewwo! I'm Caton IV. We wil repair this sawd world!",
+		"neutralHello": "Hewwo! I'm Caton IV. I hope you got some gudies which I can eat. hehe... You welcome!",
+		"hateHello": "You baad! you done terible things! I don't like you anymore!",
+		"tradeRequest": "Here some fair and tasty gudies!",
+
+		"outerColor": [27, 26, 117],
+		"innerColor": [80, 44, 219],
+		"style": "Mideival",
+		"uniqueName": "Plantes ar yumi",
+		"uniques": [
+      
+		],
+		"cities": [
+			"Catland City",
+			"Catlantis",
+			"ShinyCat City",
+			"New Tail city",
+			"Lolcat's shelter",
+			"Deadly Claw Dawn",
+			"Lost claw city",
+			"Five Paws Fortpost",
+			"Meownir Fields",
+			"Las Catto",
+			"Old Tail City",
+			"Exmeown State",
+			"El Nutcat",
+			"Glorycat Dawn",
+			"Cattograd",
+			"Paw-burg"
+		]
+	},
