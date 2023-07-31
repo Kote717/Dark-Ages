@@ -16,7 +16,8 @@
 		],
 		"promotions": []
 		
-	},
+	}
+
 {
 		"name": "Colonial",
 		"unitType": "Civilian",
@@ -35,7 +36,8 @@
 		],
 		"promotions": [,
 		
-	},
+	}
+
 	{
 		"name": "Overwatch",
 		"uniqueTo": "LolCat Kingdom",
