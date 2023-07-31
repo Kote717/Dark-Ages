@@ -24,8 +24,11 @@
 		"unitType": "Civilian",
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Settler",
-		"movement": 3,
+		"movement": 0,
 		"requiredTech": "Construction",
+		"uniques": [
+			
+		]
 		"cost": 55,
 	}
 ]
