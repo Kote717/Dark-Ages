@@ -11,9 +11,8 @@
 		"uniques": [
 			"Low Tech",
 			"[-75]% Strength <vs cities>",
-			"May withdraw before melee ([45]%)",
 			"[+1] Sight",
 		],
-		"promotions":[]
+		"promotions":["Scouting"]
 		
 }
