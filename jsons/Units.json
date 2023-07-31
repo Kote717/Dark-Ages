@@ -14,40 +14,6 @@
 			"May withdraw before melee ([45]%)",
 			"[+1] Sight",
 		],
-		"promotions": []
+		"promotions":[]
 		
-},
-
-{
-		"name": "Colonial",
-		"unitType": "Civilian",
-		"uniqueTo": "LolCat Kingdom",
-		"replaces": "Settler",
-		"movement": 4,
-		
-		"cost": 75,
-		
-		"hurryCostModifier": 55,
-		"uniques": [
-			"Capturable",
-			"May withdraw before melee ([45]%)",
-			"[+1] Sight",
-		],
-		"promotions": []
-		
-},
-
-{
-		"name": "Overwatch",
-		"uniqueTo": "LolCat Kingdom",
-		"unitType": "Civilian",
-		"cost": 0,
-		"movement": 1,
-		"requiredTech": "Construction",
-		"uniques": [
-			"[6] Sight",
-			"Never appears as a Barbarian unit"
-			
-			],
-		"promotions": []
 }
