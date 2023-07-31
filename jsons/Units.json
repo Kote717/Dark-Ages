@@ -8,6 +8,6 @@
 		"strength": 18,
 		"cost": 15,
 		"promotions": ["Scouting I"],
-		"attackSound": "phasers"
+		"attackSound": "Stab"
 	}
 ],
