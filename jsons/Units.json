@@ -12,7 +12,7 @@
 	},
 	{
 		"name": "Colonial",
-		"unitType": "Civillian",
+		"unitType": "Civilian",
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Settler",
 		"movement": 3,
