@@ -1,18 +1,13 @@
-{
+[
+	{
 		"name": "Stealth Explorer",
 		"unitType": "Scout",
 		"uniqueTo": "LolCat Kingdom",
 		"replaces": "Scout",
 		"movement": 3,
 		"strength": 12,
-		"cost": 45,
-		
-		"hurryCostModifier": 20,
-		"uniques": [
-			"Low Tech",
-			"[-75]% Strength <vs cities>",
-			"[+1] Sight",
-		],
-		"promotions":["Scouting"]
-		
-}
+		"cost": 15,
+		"promotions": ["Blitz"],
+		"attackSound": ""
+	}
+]
