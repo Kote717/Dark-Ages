@@ -17,5 +17,15 @@
 		"replaces": "Settler",
 		"movement": 3,
 		"cost": 35,
+	},
+	
+	{
+		"name": "Overwatch",
+		"unitType": "Civilian",
+		"uniqueTo": "LolCat Kingdom",
+		"replaces": "Settler",
+		"movement": 3,
+		"requiredTech": "Construction",
+		"cost": 55,
 	}
 ]
